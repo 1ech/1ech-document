@@ -1,4 +1,4 @@
-# PancakeSwap Intro
+# 1ech Intro
 
 ![](.gitbook/assets/intro-header.png)
 
